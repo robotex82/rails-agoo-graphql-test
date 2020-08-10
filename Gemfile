@@ -63,3 +63,6 @@ gem 'backend', path: './engines/backend'
 gem 'rspec-rails'
 gem 'guard-rspec'
 gem 'guard-bundler'
+
+# Add graphiQL IDE
+gem "graphiql-rails"
