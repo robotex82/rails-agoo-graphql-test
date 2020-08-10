@@ -54,3 +54,12 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Add example graphql frontend and backend
+gem 'frontend', path: './engines/frontend'
+gem 'backend', path: './engines/backend'
+
+# Add spec setup
+gem 'rspec-rails'
+gem 'guard-rspec'
+gem 'guard-bundler'
