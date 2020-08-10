@@ -1,0 +1,6 @@
+{
+  "name": "Rails Agoo GraphQL Sample",
+  "description": "An application to explore the possibilites to use agoo graphql inside a rails app.",
+  "repository": "https://github.com/robotex82/rails-agoo-graphql-test",
+  "keywords": ["ruby", "rails", "agoo", "graphql"]
+}
